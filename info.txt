@@ -1,0 +1,8 @@
+processingjs
+	http://processingjs.org/
+entorno online 
+	http://sketchpad.cc/uuWOvGJnK7
+
+origen de ficheros:
+diagrama 	https://github.com/ctemescw/oshwdem14-arduino/blob/master/sandbox/carlos/diagram.png
+datasheet	https://github.com/ctemescw/oshwdem14-arduino/blob/master/sandbox/salvari/doc/references/HCSR04b.pdf
